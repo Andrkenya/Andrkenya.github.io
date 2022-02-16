@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Introduction to Data Science!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Briefly, Data science is a broad field of Computer Science that involves the use of unique patterns, analytics, model training and artificial neural networks to observe and study datasets with big-Data to find solutions to various problems in the medical, Tech and Engineering sectors among others. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/tech.andy.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Data Science generally works along with Atificial Intelligence. Briefly Artificial Intelligence is field that involves developing models that think and act like humans, to some extent holding human concious. Initially these models are programed by scientists but eventually some are exposed to learn from the environment and the more they learn, the higher the human concious levels. 
