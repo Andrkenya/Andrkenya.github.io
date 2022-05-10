@@ -1,19 +1,33 @@
 ---
 layout: page
-title: All About me
+title: Potfolio
 permalink: /about/
 ---
 
-I am a researcher and a Software developer with big interests in machine learning, neural networks, security,and a variety of more Next-gen Technologies. I am a Masters scholar at Makerere University, Msc.Computer Science. Also I hold a Bsc.Computer Science and various certificates in the Tech-field.
+I am a Researcher, Software developer/Engineer with interests in Machine learning, Deep learning & Neural networks, Cloud Technogies, Security, Digital Transformation, Digital Health, Computational Biology, and a variety of more Next-gen Technologies. I am a Masters scholar at Makerere University, Msc.Computer Science. Also I hold a Bsc.Computer Science (Honours), and various certificates in the Tech-field.
 
-### More Information
+### Skills
 
-- Tech-Researcher
-- Scholar
-- Developer
+- Object Oriented Programming
+- Linux Administration
+- Windows Server Administration
+- Cent OS
+- Cisco Networks & VoIP
+- Database Management Systems
+- Business Intelligence
+- Leadership & Team Management
 
-### Contact me
+### Frameworks & Programming languages
+- Python & R Programming
+- Laravel
+- React js
+- React Native
+- PHP, Javascript, C#
+- Scheme
+
+
+### Contacts
 
 [andrew.bukenya@bodastage.com](mailto:email@domain.com)   |   
-[andrew.bukenya@mak.ac.ug](mailto:email@domain.com)   |   
+[andrew.bukenya@students.mak.ac.ug](mailto:email@domain.com)   |   
 [bukenyaandrew7@gmail.com](mailto:email@domain.com)
