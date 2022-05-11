@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Potfolio
+title: Portfolio
 permalink: /about/
 ---
 
