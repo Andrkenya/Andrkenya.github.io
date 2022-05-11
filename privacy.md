@@ -1,4 +1,5 @@
-
+# Privacy Policy
+## Ownership
 This site is owned by Mr.Andrew Bukenya, MSc.Muk.
 
 ## Comments
