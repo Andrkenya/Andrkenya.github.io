@@ -3,7 +3,7 @@ layout: post
 title: Applied Data Science in Clinical aspects!
 ---
 
-![_config.yml]({{ site.baseurl }}/images/tech.andymd1.jpg)
+![_config.yml]({{ site.baseurl }}/images/andymd1.jpg)
 <p>In the modern medical sector today, a variety of data science tools are being utilised in disease diagnosis, Drug discovery, model training among others.
 In union with Biomedical Engineering, many technolovical prototypes are currently being explored globally in various laboratories and the majority are powered by technological methods, Artificial Intelligence algorithms and Quantum integrations in order to ensure that they produce the best test results.
 Eventually these models are deployed after several tests so that they address the available biological and clinical problems.</p>
