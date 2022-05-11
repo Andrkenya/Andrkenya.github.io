@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Applied Data Science in Clinical aspects!
+title: Applied Data Science in Clinical aspects
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/andymd1.jpg)
