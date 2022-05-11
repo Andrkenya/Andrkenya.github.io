@@ -1,5 +1,4 @@
 
-## Ownership
 This site is owned by Mr.Andrew Bukenya, MSc.Muk.
 
 ## Comments
@@ -8,7 +7,7 @@ This site is owned by Mr.Andrew Bukenya, MSc.Muk.
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
 
 ## Media
-<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</>
+<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
 
 ## Cookies
 <p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
