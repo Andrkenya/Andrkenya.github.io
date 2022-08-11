@@ -4,11 +4,10 @@ title: Applied Data Science in Clinical aspects
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/andymd1.jpg)
-<p>In modern medicine currently, a variety of data science tools are being utilised in disease diagnosis, Drug discovery, model training among others.
-In union with Biomedical Engineering, many technological prototypes are currently being explored globally in various laboratories and the majority are powered by technological methods, Artificial Intelligence algorithms and Quantum integrations in order to ensure that they produce the best test results.
+<p>In modern medicine currently, a variety of data science tools are being utilized in Disease diagnosis, Drug discovery, Prototypying among others.
+In union with Biomedical Engineering, many technological prototypes are currently being explored globally in various laboratories and the majority are powered by technology, Artificial Intelligence algorithms and Quantum integrations in order to ensure that they produce the best test results.
 Eventually these models are deployed after several tests so that they address the available biological and clinical problems.</p>
 
 ![_config.yml]({{ site.baseurl }}/images/clinic.png)
-<p>Bioinformatics also utilises big data and artificial Intelligence to process DNA Sequencing, DNA editing and Protein manipulation using the 'acgt' character notation. In the past generations these technologies were not yet invented which highly hidered biological research advancements because all thoughts
-Had to come from the human head. Though in the present days, due to Tech Advancements, Big data processing is nolonger a problem, and this has led to social-Economic developments in seral countries.Also it has paved way for advanced research in all sectors.</p>
+<p>Bioinformatics also utilises big data and artificial Intelligence to process DNA Sequencing, Gene editing and Protein manipulation using the 'acgt' character notation. In the past generations these technologies were not yet invented which highly hidered biological research advancements due to dependency on human brain. Though in the present days, due to High-Tech advancements, Big data processing is nolonger an issue, which has led to social-Economic developments in several countries. Also it has paved way for advanced research in external sectors.</p>
 
