@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Portfolio
+title: Profile
 permalink: /about/
 ---
-
-I am a Researcher, Software developer/Engineer with interests in Machine learning, Deep learning & Neural networks, Cloud Technogies, Security, Digital Transformation, Digital Health, Computational Biology, and a variety of more Next-gen Technologies. I am a Masters scholar at Makerere University, Msc.Computer Science. Also I hold a Bsc.Computer Science (Honours), and various certificates in the Tech-field.
+Andrew is a Researcher, Software developer/Engineer with interests in Machine learning, Deep learning & Neural networks, NLP, Cloud Technologies, Security, Digital Transformation, Digital Health, Computational Biology, and a variety of more Next-gen Technologies. A Masters scholar at Makerere University, Msc.Computer Science (Artificial Intelligence & Data Science). He holds a Bsc.Computer Science (Honours), and various certificates in the Tech-field.
 
 ### Skills
 
