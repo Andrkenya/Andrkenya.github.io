@@ -27,6 +27,6 @@ Andrew is a Researcher, Software developer/Engineer with interests in Machine le
 
 ### Contacts
 
-[andrew.bukenya@bodastage.com](mailto:email@domain.com)   |   
-[andrew.bukenya@students.mak.ac.ug](mailto:email@domain.com)   |   
-[bukenyaandrew7@gmail.com](mailto:email@domain.com)
+[andrew.buk10@gmail.com](mailto:email@domain.com)
+
+
