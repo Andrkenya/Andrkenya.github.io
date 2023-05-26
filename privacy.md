@@ -1,7 +1,7 @@
 
 
 ## Ownership
-This site is owned by Mr.Andrew Bukenya, MSc.Muk.
+This site is owned by Mr.Andrew.
 
 ## Comments
 <p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
