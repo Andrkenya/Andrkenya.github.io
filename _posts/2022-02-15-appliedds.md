@@ -4,10 +4,10 @@ title: Applied Data Science in Clinical aspects
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/andymd1.jpg)
-<p>In modern medicine currently, a variety of data science tools are being utilized in Disease diagnosis, Drug discovery, Prototypying among others.
-In union with Biomedical Engineering, many technological prototypes are currently being explored globally in various laboratories and the majority are powered by technology, Artificial Intelligence algorithms and Quantum integrations in order to ensure that they produce the best test results.
-Eventually these models are deployed after several tests so that they address the available biological and clinical problems.</p>
+<p>With the advancement in technology, several cutting-edge aspects have evolved including Data Science, hence its integration in several aspects of humanity. In modern medicine, a variety of data science tools are being utilized. Among the beneficiaries include; Disease diagnosis, Drug discovery, Model Prototypying, etc.
+In clinical aspects, several technological prototypes dependent on data patterns have been deployed globally in various laboratories. Artificial Intelligence algorithms have also been laveraged to ensure desired productivity and reliable results.
+Eventually clinical procedures have been enhanced by optimizing reliability and minimizing processing time involved in solving the existing biological and clinical problems.</p>
 
 ![_config.yml]({{ site.baseurl }}/images/clinic.png)
-<p>Bioinformatics also utilises big data and artificial Intelligence to process DNA Sequencing, Gene editing and Protein manipulation using the 'acgt' character notation. In the past generations these technologies were not yet invented which highly hidered biological research advancements due to dependency on human brain. Though in the present days, due to High-Tech advancements, Big data processing is nolonger an issue, which has led to social-Economic developments in several countries. Also it has paved way for advanced research in external sectors.</p>
+<p>Bioinformaticians also utilize data science tools and ML in sequencing DNA, Gene analysis and Protein manipulation. Although these technologies were absent in the past, the present days are significantly favoured with availability of High-Tech advancements and Big data processing ain't an issue, hence social-Economic development. Furthermore this has paved way for advanced research in external sectors.</p>
 
